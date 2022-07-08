@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ri5hi-kumar
-- 👀 I’m interested in everthing
+- 👀 I’m interested in cybersec
 - 🌱 I’m currently learning Data Stuctures and Algorithms
 
 <!---
